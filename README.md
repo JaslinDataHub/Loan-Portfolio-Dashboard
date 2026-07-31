@@ -91,19 +91,24 @@ This Power BI dashboard provides a complete analysis of a loan portfolio, helpin
 
 ## Dashboard Preview
 
-### Page 1
-![Dashboard1](Images/Dashboard_Page1.png)
+### 📌 Page 1 - Portfolio Overview
 
-### Page 2
+![Dashboard 1](Screenshot%202026-07-31%20131147.png)
 
-![Dashboard2](Images/Dashboard_Page2.png)
+---
 
-### Page 3
+### 📌 Page 2 - Charges & Penalty Analysis
 
-![Dashboard3](Images/Dashboard_Page3.png)
+![Dashboard 2](Screenshot%202026-07-31%20131701.png)
 
-### Page 4
+---
 
-![Dashboard4](Images/Dashboard_Page4.png)
+### 📌 Page 3 - Overdue Analysis
 
-```
+![Dashboard 3](Screenshot%202026-07-31%20131735.png)
+
+---
+
+### 📌 Page 4 - Performance Analysis
+
+![Dashboard 4](Screenshot%202026-07-31%20194311.png)
