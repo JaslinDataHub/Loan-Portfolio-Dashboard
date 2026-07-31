@@ -92,7 +92,7 @@ This Power BI dashboard provides a complete analysis of a loan portfolio, helpin
 ## Dashboard Preview
 
 ### Page 1
-
+![Dashboard1](Images/Dashboard_Page1.png)
 
 ### Page 2
 
